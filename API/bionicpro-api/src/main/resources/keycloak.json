@@ -1,0 +1,8 @@
+{
+  "realm": "reports-realm",
+  "auth-server-url" : "http://localhost:8080",
+  "resource" : "reports-api",
+  "credentials": {
+    "secret": "oNwoLQdvJAvRcL89SydqCWCe5ry1jMgq"
+  }
+}
